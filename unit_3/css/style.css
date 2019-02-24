@@ -1,0 +1,27 @@
+background
+background-color
+color
+font-size
+font-style
+font-weight
+text-align
+text-decoration
+text-transform
+
+p {
+     color: red;
+}
+
+p {
+     color: (255,0,0);
+}
+
+p {
+     color: #FF0000;
+}
+h1 {
+     font-family: Arial, sans-serif;
+}
+h3 {
+     font-size: 24px;
+}
