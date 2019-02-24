@@ -1,12 +1,7 @@
-background
-background-color
-color
-font-size
-font-style
-font-weight
-text-align
-text-decoration
-text-transform
+@import url('https://fonts.googleapis.com/css?family=Lato|Padauk')
+font-family: 'Lato', sans-serif;
+font-family: 'Padauk', sans-serif;
+
 
 p {
      color: red;
