@@ -1,0 +1,53 @@
+header {
+background-color: #FFED74;
+border: 1 px black solid;
+padding: 20px;
+}
+
+nav {
+	background-color: #E8CC66A;
+	border: 1 px black solid;
+	padding: 20px;
+}
+
+aside{
+	background-color: #FFC675;
+	border: 1 px black solid;
+	padding: 20px;
+}
+
+article{
+	background-color: #E89C6C;
+	border: 1 px black solid;
+	padding: 20px;
+}
+
+footer{
+	background-color: #FF957E;
+	border: 1 px black solid;
+	padding: 20px;
+}
+
+div{
+	background-color: #FFE2B8;
+	border: 1 px black solid;
+	padding: 20 px;
+}
+
+p {
+     color: red;
+}
+
+p {
+     color: (255,0,0);
+}
+
+p {
+     color: #FF0000;
+}
+h1 {
+     font-family: Arial, sans-serif;
+}
+h3 {
+     font-size: 24px;
+}
