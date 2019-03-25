@@ -1,37 +1,42 @@
+body {
+	font-family:"Source Sans Pro", sans-serif;
+}
+
+
 header {
 background-color: #FFED74;
-border: 1 px black solid;
+border: 1px black solid;
 padding: 20px;
 }
 
 nav {
-	background-color: #E8CC66A;
-	border: 1 px black solid;
+	background-color: #E8CC6A;
+	border: 1px black solid;
 	padding: 20px;
 }
 
 aside{
 	background-color: #FFC675;
-	border: 1 px black solid;
+	border: 1px black solid;
 	padding: 20px;
 }
 
 article{
 	background-color: #E89C6C;
-	border: 1 px black solid;
+	border: 1px black solid;
 	padding: 20px;
 }
 
 footer{
 	background-color: #FF957E;
-	border: 1 px black solid;
+	border: 1px black solid;
 	padding: 20px;
 }
 
 div{
 	background-color: #FFE2B8;
-	border: 1 px black solid;
-	padding: 20 px;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 p {
@@ -39,7 +44,7 @@ p {
 }
 
 p {
-     color: (255,0,0);
+     color: rgb(255,0,0);
 }
 
 p {
